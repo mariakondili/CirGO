@@ -5,7 +5,7 @@
 ! *CirGO (Circular Gene Ontology) Version 2.0 for Pyhton 3+ is available 24/04/2020  
 ```
 
-© Copyright (C) 2020  
+Â© Copyright (C) 2020  
 https://github.com/IrinaVKuznetsova/CirGO.git  
   
 Software development:  
@@ -34,7 +34,7 @@ Brief Algorithm Description
 ------
 
 Briefly, CirGO visualisation algorithm consists of three steps that are described at the Supplementary Material of the [CirGO: an alternative circular way of visualising gene ontology terms](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2671-2) publication:   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Formatting of the *csv* input file obtained from the TreeMap tab on [REVIGIO page](http://revigo.irb.hr/)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Formatting of the *csv* input file obtained from the TreeMap tab on [REVIGO page](http://revigo.irb.hr/)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Values calculation  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) GO visualisation as two-layer full hierarchies  
 
@@ -42,7 +42,7 @@ Briefly, CirGO visualisation algorithm consists of three steps that are describe
 Input Data Format
 ------
 
-#### REVIGIO csv input file  
+#### REVIGO csv input file  
 Note: four header lines are omitted  
 
 | term_ID | description | frequencyInDb | log10pvalue | uniqueness | dispensability | representative
